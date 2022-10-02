@@ -6,10 +6,9 @@
 
 #### *screenshot*
 
-<img src="https://raw.githubusercontent.com/hazelpill/SockDos/main/images/img1.png?token=GHSAT0AAAAAABYKLFM6642LSIDDQSNNDFEYYZZ2DIA" alt="Preview Image">
+<img src="https://github.com/hazelpill/SockDos/blob/main/images/img1.png?raw=true">
 
 Straghtforward interface to quickly start your attack
-
 <br>
 
 ## Classifiers
