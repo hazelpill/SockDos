@@ -9,6 +9,8 @@
 <img src="https://github.com/hazelpill/SockDos/blob/main/images/img1.png?raw=true">
 
 Straghtforward interface to quickly start your attack
+
+*NOTE: The speed it takes differs on each device and depends on your internet speed*
 <br>
 
 ## Classifiers
