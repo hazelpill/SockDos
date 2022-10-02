@@ -4,7 +4,13 @@
 
 ### [Download](https://github.com/hazelpill/SockDos/releases/latest) - [Licence](https://github.com/hazelpill/SockDos/blob/main/LICENSE) - [Source](https://github.com/hazelpill/SockDos/tree/main/source)
 
-<img src="https://github.com/hazelpill/SockDos/tree/main/images/img1.png" alt="Preview Image">
+#### *screenshot*
+
+<img src="https://raw.githubusercontent.com/hazelpill/SockDos/main/images/img1.png?token=GHSAT0AAAAAABYKLFM6642LSIDDQSNNDFEYYZZ2DIA" alt="Preview Image">
+
+Straghtforward interface to quickly start your attack
+
+<br>
 
 ## Classifiers
 
