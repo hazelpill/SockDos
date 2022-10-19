@@ -38,7 +38,7 @@ LEN = len(MSG)  # Length of message
 valid = False
 while not valid:
     try:
-        usr_inp = int(input("Set packet size in bytes: "))
+        usr_inp = int(input("[?] Set packet size in bytes: "))
         valid = True
     except:
         continue
