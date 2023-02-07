@@ -26,6 +26,6 @@ Straghtforward interface to quickly start your attack
 | --- | --- |
 | Licence | [GPL-3.0](https://github.com/hazelpill/SockDos/blob/main/LICENSE) |
 | Python | 3.8+ |
-| Supported OS | Windows, OSX, Linux |
+| Supported OS | Windows, Linux, (OSX ?) |
 
-Tested on Windows with Python 3.10.4 and Linux with Python 3.8.10
+Tested on Windows with Python 3.10.4 and Linux with Python 3.8.10 & 3.10.9
